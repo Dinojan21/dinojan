@@ -1,0 +1,26 @@
+* {
+    margin: 0 auto;
+}
+
+.top-page {
+    background-color: #171615;
+    height: 21vh;
+}
+.mainHeader {
+    background-color: hsl(0, 0%, 0%); 
+    height: 5vh;
+    display: flex;
+    align-items: center;
+}
+
+
+nav.LoginNav {
+    background-color: blue;
+    display: flex;
+    list-style: none;
+    margin-left: 1000px;
+}
+
+nav.LoginNav li {
+    color: chartreuse;
+}
